@@ -1,0 +1,3 @@
+[21:56:34][NATTCore][INFO] Entering to the server host mode ...
+[21:56:34][MessageBuffer][INFO] Message buffer created for module with name: email-server
+[21:56:34][SMTPEmailServer][INFO] (email-server) SMTP Email Server is listening on port: 9999

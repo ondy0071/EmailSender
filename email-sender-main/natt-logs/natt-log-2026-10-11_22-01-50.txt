@@ -1,0 +1,7 @@
+[22:01:50][NATTCore][INFO] Entering to the server host mode ...
+[22:01:50][MessageBuffer][INFO] Message buffer created for module with name: email-server
+[22:01:50][SMTPEmailServer][INFO] (email-server) SMTP Email Server is listening on port: 9999
+[22:02:00][MessageBuffer][INFO] Message added to buffer [ Mod: email-server | Tag: Email from Java ] Content: 'Funguje to?
+Snad...'
+[22:02:14][MessageBuffer][INFO] Message added to buffer [ Mod: email-server | Tag: Email from Java ] Content: 'Funguje to?
+Snad...'
